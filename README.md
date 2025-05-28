@@ -3,7 +3,7 @@
 <p align="center">
   <b>Aspiring Front-End Developer | Learning Full-Stack Development | WordPress Enthusiast</b>
 </p>
-<div>------------------------------------------------------------</div>
+<div align="center">================================================================</div>
 <br/>
 
 ## 🧑‍💻 About Me
