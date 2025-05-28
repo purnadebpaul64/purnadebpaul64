@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋!<br>My name is Purna Deb Paul and I'm a Front end developer, from Dhaka</h2>
+<h1 align="center">Hi 👋, I'm Purna Deb Paul</h1>
+<h3 align="center">A passionate frontend developer from Dhaka</h3>
+
+- 🌱 I’m currently learning **React, Next js, Node and Express**
+
+- 💬 Ask me about **React, gsap, Tailwind, Framer Motion, Wordpress**
+
+- 📫 How to reach me **purnadebpaul64@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
