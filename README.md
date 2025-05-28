@@ -1,15 +1,18 @@
-<h1>Hi 👋, I'm Purna Deb Paul</h1>
-<h3>A passionate frontend developer from Dhaka</h3>
+<h1 align="center">Hi there, I'm Purna Deb Paul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-- 🌱 I’m currently learning **React, Next js, Node and Express**
-
-- 💬 Ask me about **React, gsap, Tailwind, Framer Motion, Wordpress**
-
-- 📫 How to reach me **purnadebpaul64@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Aspiring Front-End Developer | Learning Full-Stack Development | WordPress Enthusiast</b>
 </p>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+- 👋 I'm **Purna Deb Paul** from **Dhaka, Bangladesh**
+- 🚀 Currently learning **Full-Stack Web Development** (React, Node.js, Express, MongoDB)
+- 🎯 Passionate about **Front-End Development** and building clean, user-friendly interfaces
+- 💻 I also have experience with **PHP**, **Laravel**, and have built many **WordPress websites**
+- 📚 Always eager to learn, improve, and build real-world projects to grow my skills
 
 ###
 
