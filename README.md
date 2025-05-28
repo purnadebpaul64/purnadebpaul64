@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Purna Deb Paul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Purna Deb Paul</h1>
 
 <p align="center">
   <b>Aspiring Front-End Developer | Learning Full-Stack Development | WordPress Enthusiast</b>
