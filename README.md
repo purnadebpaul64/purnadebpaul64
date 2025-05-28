@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purna Deb Paul</h1>
-<h3 align="center">A passionate frontend developer from Dhaka</h3>
+<h1>Hi 👋, I'm Purna Deb Paul</h1>
+<h3>A passionate frontend developer from Dhaka</h3>
 
 - 🌱 I’m currently learning **React, Next js, Node and Express**
 
