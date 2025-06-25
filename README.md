@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/PvTK8m4C/Aspiring-Front-End-Developer-Learning-Full-Stack-Development.png" alt="Aspiring Front-End Developer Banner" width="100%" />
+</p>
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Purna Deb Paul</h1>
 
 <p align="center">
@@ -11,7 +14,7 @@
 - 👋 I'm **Purna Deb Paul** from **Dhaka, Bangladesh**
 - 🚀 Currently learning **Full-Stack Web Development** (React, Node.js, Express, MongoDB)
 - 🎯 Passionate about **Front-End Development** and building clean, user-friendly interfaces
-- 💻 I also have experience with **PHP**, **Laravel**, and have built many **WordPress websites**
+- 💻 And have built many **WordPress websites**
 - 📚 Always eager to learn, improve, and build real-world projects to grow my skills
 
 ###
@@ -63,15 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="45" alt="woocommerce logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="45" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />>
 </div>
-
-###
-
-<img width="100%" height="400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/tenor.gif"  />
 
 ###
