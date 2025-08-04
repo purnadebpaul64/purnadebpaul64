@@ -46,13 +46,13 @@
 <a href="mailto:purnadebpaul64@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/purnadebpaul64/" target="_blank">
+  <a href="https://www.linkedin.com/in/purna-deb-paul-sanju/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/purnadebpaul64" target="_blank">
+  <a href="https://www.instagram.com/purna.deb.paul.sanju/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/purnadebpaul64" target="_blank">
+  <a href="https://www.facebook.com/purna.deb.paul.sanju/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://purnadebpaul64.vercel.app/" target="_blank">
