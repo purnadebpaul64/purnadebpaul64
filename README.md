@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/35PYsG9f/purnadebpaul-github-cover.png" alt="Aspiring Front-End Developer Banner" width="100%" />
+  <img src="https://i.ibb.co.com/qYns1c9C/purnadebpaul-github-cover.png" alt="Aspiring Front-End Developer Banner" width="100%" />
 </p>
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Purna Deb Paul</h1>
 
